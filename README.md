@@ -25,9 +25,7 @@ Desenvolvedor **Back-End .NET**, focado em arquitetura, segurança e testes auto
 
 #### 🚀 Projetos em destaque
 
-**Sentinela** — Plataforma de monitoramento de ativos de TI. 🚧 Em desenvolvimento (Azure DevOps).
-
-**[CryptoArbitrage](https://github.com/JosielBach/CryptoArbitrageV1)** — Backend .NET 9 para detecção de arbitragem entre exchanges. Clean Architecture + DDD, eventos de domínio via MediatR, JWT com rotação de refresh token, **151 testes unitários** (Domain/Application/Infrastructure).
+**Sentinela** — Plataforma de monitoramento de ativos de TI. 🚧 Em desenvolvimento (Azure DevOps e código sendo atualizado gradualmente no GitHub).
 
 **[HelpDesk](https://github.com/JosielBach/HelpDesk)** — Sistema de chamados com autenticação JWT, papéis de usuário e SLA por prioridade. .NET 9 + Angular, rate limiting diferenciado por IP e por usuário, pipeline CI/CD no GitLab → Docker na GCP.
 
