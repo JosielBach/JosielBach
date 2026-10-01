@@ -35,6 +35,3 @@ Desenvolvedor **Back-End .NET**, focado em arquitetura, segurança e testes auto
 
 ---
 
-#### 📊 Atividade
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JosielBach&show_icons=true&theme=default&hide_title=true)
